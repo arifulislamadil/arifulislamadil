@@ -1,9 +1,7 @@
 # Hi,I'm Adil  👋
 ### I am a web-developer.
-<hr>
-- 👋 Hi, I’m @ariful islam
 - 👀 I’m interested in Web Design & Development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m a code lover
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me by Email
 
