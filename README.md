@@ -1,6 +1,6 @@
 ![*Web-Developer*](https://media-exp1.licdn.com/dms/image/C5616AQGId076hNkqPw/profile-displaybackgroundimage-shrink_200_800/0/1631119545027?e=1636588800&v=beta&t=8RQ4LAMPu82NnELS6guppAeH0QbRBkAY34yrXiIEDl8)
 
-## Hi there , **Adil Arif 👋 **
+## Hi there , **Adil Arif ** 👋
 ### *Web-Developer*
 
 
