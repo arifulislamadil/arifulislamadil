@@ -1,4 +1,4 @@
-![*Web-Developer*](https://media-exp1.licdn.com/dms/image/C5616AQG31RZI5dFsmQ/profile-displaybackgroundimage-shrink_350_1400/0/1632256059384?e=1645056000&v=beta&t=rLSOHsZMRSnApyTMzGXfNKVkzVSboG_BNCQaai1TFvY)
+![*Web-Developer*](https://media-exp1.licdn.com/dms/image/C5616AQGduBukZDvgSQ/profile-displaybackgroundimage-shrink_200_800/0/1640497054596?e=1646265600&v=beta&t=CuHwLgEAQ732YTDoFevUg7AgYK8H_j6XfOpV6YKm6z0)
 
 ## Hi there , **Adil Arif** 👋
 ### *Web-Developer*
