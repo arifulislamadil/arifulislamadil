@@ -1,4 +1,4 @@
-![*Web-Developer*](https://contentstatic.techgig.com/photo/84794342/what-are-the-key-responsibilities-of-web-developers.jpg?49831)
+![*Web-Developer*](https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/687289/retina_1708x683_op-Ten-Front-End-Design-Rules-For-Developers_Luke-Newsletter-d3a7d3e7430ee224cab75104f11342a0.png)
 
 ## Hi there , **Adil Arif** 👋
 ### *Web-Developer*
