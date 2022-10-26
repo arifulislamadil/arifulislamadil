@@ -1,4 +1,4 @@
-![*Web-Developer*](https://media-exp1.licdn.com/dms/image/C5616AQGduBukZDvgSQ/profile-displaybackgroundimage-shrink_200_800/0/1640497054596?e=1646265600&v=beta&t=CuHwLgEAQ732YTDoFevUg7AgYK8H_j6XfOpV6YKm6z0)
+![*Web-Developer*](https://contentstatic.techgig.com/photo/84794342/what-are-the-key-responsibilities-of-web-developers.jpg?49831)
 
 ## Hi there , **Adil Arif** 👋
 ### *Web-Developer*
