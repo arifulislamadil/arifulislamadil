@@ -1,5 +1,3 @@
-![*Web-Developer*]((https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/687289/retina_1708x683_op-Ten-Front-End-Design-Rules-For-Developers_Luke-Newsletter-d3a7d3e7430ee224cab75104f11342a0.png](https://res.cloudinary.com/practicaldev/image/fetch/s--wQ6qCDgS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f7q8mxcpcb9u7pwq6yyl.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--wQ6qCDgS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f7q8mxcpcb9u7pwq6yyl.png))
-
 ## Hi there , **Adil Arif** 👋
 ### *Web-Developer*
 
