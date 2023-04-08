@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm Ariful</h1>  
-<h3 align="center">I'm a software web developer</h3>  
+<h3 align="center">A passionate Software Engineer</h3>  
 
 <img width="100%" src="https://cdn.seeklearning.com.au/media/images/career-guide/module/web-developer-module.jpg" alt="cover" />
 
