@@ -1,7 +1,7 @@
 ## Hi there , **Adil Arif** 👋
 ### *Web-Developer*
 
-
+<img width="100%" src="https://cdn.seeklearning.com.au/media/images/career-guide/module/web-developer-module.jpg" alt="cover" />
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
