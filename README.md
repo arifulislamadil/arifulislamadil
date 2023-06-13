@@ -21,6 +21,3 @@ Skills: JAVASCRIPT / REACT / AUTH0 / REDUX / / TYPESCRIPT / HTML5 / CSS3
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=arifulislamadil&show_icons=true)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=arifulislamadil)  
-
-![Profile views](https://gpvc.arturio.dev/arifulislamadil)  
-![image title]([https://rushter.com/counter.svg](https://komarev.com/ghpvc/?arifulislamadil))
