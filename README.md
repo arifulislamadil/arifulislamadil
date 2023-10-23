@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm Ariful</h1>  
-<h3 align="center">A passionate Software Engineer</h3>  
+<h3 align="center">A passionate Web Developerr</h3>  
 
 <img width="100%" src="https://media.licdn.com/dms/image/D4D16AQF4bbmie2FkeQ/profile-displaybackgroundimage-shrink_350_1400/0/1698035521865?e=1703721600&v=beta&t=5wGE8IbwJtOGDS-V0nOEce6hdSfZgp5ki6i5STzH3TU" alt="cover" />
 
