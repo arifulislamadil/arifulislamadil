@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm Ariful</h1>  
 <h3 align="center">A passionate Software Engineer</h3>  
 
-<img width="100%" src="https://www.linkedin.com/in/ariful-islam-45619210a/overlay/background-image/" alt="cover" />
+<img width="100%" src="https://thumbor.forbes.com/thumbor/fit-in/900x510/https://www.forbes.com/advisor/wp-content/uploads/2023/07/computer-coding.jpg" alt="cover" />
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
